@@ -4,16 +4,10 @@
 #de días negativo, el código debe avisar que los valores 
 #ingresados son inválidos y no calcular el total.
 
-actividadA <- -12
+actividadA <- 12
 actividadB <- 3
 actividadC <- 2
 
-if(actividadA<0){
-  print("No se aceptan numeros negativos : Actividad A")
-}
-if(actividadB<0){
-  print("No se aceptan numeros negativos : Actividad B")
-}
-if(actividadC<0){
-  print("No se aceptan numeros negativos : Actividad C")
+if(actividadA<0 || actividadB<0 || actividadC<0){
+  print("No se aceptan numeros negativos")
 }
