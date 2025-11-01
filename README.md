@@ -14,4 +14,5 @@ y ciencia de datos.
 Para estos ejercicios cambie las entradas de parte del usuario por valores asignados directamente a las variables, a comparacion de lo 
 realizado en python las aplicaciones de las condicionales en este lenguaje se tienen que manejar de diferente forma, como ejemplo el elif 
 (python) no existe en R.
+
 En cada ejercicio realizado se encontrara con una descipcion del problema a resolver en forma de comentario de codigo. 
