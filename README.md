@@ -6,3 +6,4 @@ y ciencia de datos.
 °Potente para estadisticas
 °Visualización avanzada
 °Multiplataforma
+<img width="200" height="155" alt="image" src="https://github.com/user-attachments/assets/7760d1c5-22a4-4b45-beeb-e91d828e1824" />
