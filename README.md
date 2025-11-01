@@ -9,3 +9,8 @@ y ciencia de datos.
 
 
 <img width="200" height="155" alt="image" src="https://github.com/user-attachments/assets/7760d1c5-22a4-4b45-beeb-e91d828e1824" />
+
+
+Para estos ejercicios cambie las entradas de parte del usuario por valores asignados directamente a las variables, a comparacion de lo 
+realizado en python las aplicaciones de las condicionales en este lenguaje se tienen que manejar de diferente forma, como ejemplo el elif 
+(python) no existe en R.
